@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Southampton Fc</title>
+</head>
+<body>
+    <table style="font-size: 80px; color: #430606;" >PLAYER Of The Year</table>
+    <img src="img/vid/3E36B600-35A0-42A6-8C0B-1931F54F1947.jpeg" alt="Nigerian player">
+    <p class="device-width">JOE ARIBO</p>
+    <h1 class="">Team members</h1>
+    <a href="Southampton">
+    <p>Men</p>
+    <h2 style="grid-column: auto;">
+        <ul>
+            <li>G=Goalkeepers</li>
+            <li>D=Defenders</li>
+            <li>M=Midfielders</li>
+            <li>F=Fwd-Attackers</li>
+
+        </ul>
+    </h2>
+    <div class="tm-header-__box" style bis_skin_checked="5">
+    <ol>
+        <li>Mateusz Lis (G)</li> 
+       <li>1 Alex McCarthy (G)</li>
+        <li>13 Joe Lumley (G)</li> 
+        <li>31 Gavin Bazunu (G)</li> 
+        <li>NA Armel Bella-Kotchap (D)</li> 
+        <li>NA Ronnie Edwards (D)</li> 
+        <li>NA Charlie Taylor (D)</li> 
+        <li>NA Nathan Wood (D)</li> 
+        <li>2 Kyle Walker-Peters (D)</li> 
+        <li>3 Ryan Manning (D)</li> 
+        <li>5 Jack Stephens (D)</li> 
+        <li>6 Taylor Harwood-Bellis (D)</li> 
+        <li>14 James Bree (D)</li> 
+        <li>16 Yukinari Sugawara (D)</li> 
+        <li>28 Juan Larios (D)</li> 
+        <li>29 Jayden Meghoma (D)</li> 
+        <li>35 Jan Bednarek (D)</li> 
+        <li>NA Adam Lallana (M)</li> 
+        <li>4 Flynn Downes (M)</li>
+        <li>7 Joe Aribo (M)</li> 
+        <li>8 Will Smallbone (M)</li> 
+        <li>20 Kamaldeen Sulemana (M)</li> 
+        <li>22 Carlos Alcaraz (M)</li> 
+        <li>23 Samuel Edozie (M)</li> 
+        <li>24 Shea Charles (M)</li> 
+        <li>33 Tyler Dibling (M)</li> 
+        <li>NA Paul Onuachu (F)</li>
+        <li>9 Adam Armstrong (F)</li> 
+        <li>11 Ross Stewart (F)</li> 
+        <li>17 Ben Brereton (F)</li> 
+        <li>18 Sekou Mara (F)</li> 
+        <li>27 Sam Amo-Ameyaw (F)</li> 
+        
+    </ol>
+   
+    <br><br>
+   
+
+    </div>
+</body>
+</html>
